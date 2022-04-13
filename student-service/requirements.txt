@@ -1,0 +1,7 @@
+fastapi==0.75.0
+redis-om==0.0.20
+requests~=2.27.1
+starlette~=0.17.1
+pandas~=1.4.2
+matplotlib~=3.5.1
+numpy~=1.22.3

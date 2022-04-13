@@ -1,0 +1,14 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8000/
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/hello/User
+Accept: application/json
+
+### - jedan API za auth - daje se reddit oauth preko koga se rade reddit pozivi
+### - drugi api povlaci podatke sa reddita - karma, datum kreiranja naloga, istorija objava komentara, lajkova mozda?
+### - treci za dataset vraca statistiku -
+
